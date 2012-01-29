@@ -7,5 +7,7 @@ namespace myGitExt
 {
     interface Interface3
     {
+
+        ////
     }
 }
